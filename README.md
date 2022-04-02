@@ -1,4 +1,4 @@
-# Netflix-Clone
+# React-router-dom
 
 ## Overview
 
@@ -17,10 +17,11 @@
 -   Semantic HTML5 markup
 -   CSS custom properties
 -   JavaScript
+-   ReactJS
 
 ### What I learned
 
-In this project i could use JavaScript features and CSS to clone a Netflix home page, with a carousel to show the movies and series.
+In this project i could use the axios library to make HTTP requests from a fake API and navigate though it's data with the resources of the React-router-dom library.
 
 ## Author
 
