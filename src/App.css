@@ -1,0 +1,16 @@
+.btnTitle {
+	display: flex;
+	width: 100%;
+	padding: 20px;
+	margin-bottom: 10px;
+	border: 2px solid;
+	cursor: pointer;
+}
+
+.btnTitle:hover {
+	background-color: #ddd;
+}
+
+a {
+	text-decoration: none;
+}
